@@ -4,7 +4,6 @@ import math
 import numpy as np
 from pathlib import Path
 import plotly.express as px
-from statsmodels.tsa.statespace.sarimax import SARIMAX
 import plotly.graph_objects as go
 
 # Set the title and favicon that appear in the Browser's tab bar.
